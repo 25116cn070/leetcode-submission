@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/25116cn070/leetcode-submission/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/25116cn070/leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/25116cn070/leetcode-submission/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/25116cn070/leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
