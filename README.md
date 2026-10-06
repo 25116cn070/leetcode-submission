@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/25116cn070/leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/25116cn070/leetcode-submission/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
+| [3731-find-missing-elements](https://github.com/25116cn070/leetcode-submission/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25116cn070/leetcode-submission/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/25116cn070/leetcode-submission/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/25116cn070/leetcode-submission/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
