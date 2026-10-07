@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/25116cn070/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/25116cn070/leetcode-submission/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/25116cn070/leetcode-submission/tree/master/0867-transpose-matrix) |
 | [3731-find-missing-elements](https://github.com/25116cn070/leetcode-submission/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/25116cn070/leetcode-submission/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/25116cn070/leetcode-submission/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/25116cn070/leetcode-submission/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
