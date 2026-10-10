@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/25116cn070/leetcode-submission/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/25116cn070/leetcode-submission/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/25116cn070/leetcode-submission/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/25116cn070/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/25116cn070/leetcode-submission/tree/master/0867-transpose-matrix) |
 | [3731-find-missing-elements](https://github.com/25116cn070/leetcode-submission/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/25116cn070/leetcode-submission/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/25116cn070/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/25116cn070/leetcode-submission/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/25116cn070/leetcode-submission/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
